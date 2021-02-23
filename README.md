@@ -1,4 +1,4 @@
 # my-first-github-repository
-My firts Github reposotory do pratice
+Meu primeiro projeto GitHub
 
 By Ivan Teixeira
